@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroGradient from "./HeroGradient";
+import HeroGradient from "../ui/HeroGradient";
 import SpotlightButton from "./SpotlightButton";
 
 
@@ -20,7 +20,7 @@ export const HeroSection = () => {
             <span className="text-5xl md:text-7xl font-bold">AITR</span>
           </div>
           <p className="text-richblack-50 text-[16px] md:text-xl max-w-2xl mt-9 mb-9 text-left">
-            Established in 2018, the AITR Student Chapter of the Computer Society of India (CSI) serves as a dynamic hub for technological innovation. We empower students through high-impact workshops, seminars, and industry networking, bridging the gap between academic learning and professional excellence in the IT landscape. 🚀🔧📚💡
+            Established in 2018, the AITR Student Chapter of the Computer Society of India (CSI) serves as a dynamic hub for technological innovation. We empower students through high-impact workshops, seminars, and industry networking, bridging the gap between academic learning and professional excellence in the IT landscape.
           </p>
           <div className="flex flex-col sm:flex-row items-center gap-4 mt-6">
             <SpotlightButton />

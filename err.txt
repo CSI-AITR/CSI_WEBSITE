@@ -836,3 +836,1024 @@ src\components\ui\wavy-background.jsx
 [39m[22m
 
 webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve './HeroGradient' in 'C:\Users\Garvit\nike-project\CSI_WEBSITE\src\components\homePage'
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/components/homePage/HeroSection.jsx[39m[22m [1m[32m5:0-42[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './HeroGradient' in 'C:\Users\Garvit\nike-project\CSI_WEBSITE\src\components\homePage'[39m[22m
+
+webpack compiled with [1m[31m1 error[39m[22m and [1m[33m1 warning[39m[22m
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve './HeroGradient' in 'C:\Users\Garvit\nike-project\CSI_WEBSITE\src\components\homePage'
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/components/homePage/HeroSection.jsx[39m[22m [1m[32m5:0-42[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './HeroGradient' in 'C:\Users\Garvit\nike-project\CSI_WEBSITE\src\components\homePage'[39m[22m
+
+webpack compiled with [1m[31m1 error[39m[22m and [1m[33m1 warning[39m[22m
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '../homePage/HeroGradient' in 'C:\Users\Garvit\nike-project\CSI_WEBSITE\src\components\homePage'
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/components/homePage/HeroSection.jsx[39m[22m [1m[32m5:0-52[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve '../homePage/HeroGradient' in 'C:\Users\Garvit\nike-project\CSI_WEBSITE\src\components\homePage'[39m[22m
+
+webpack compiled with [1m[31m1 error[39m[22m and [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\components\AdminPanel\Header.jsx
+  Line 2:10:  'IoSearch' is defined but never used         no-unused-vars
+  Line 3:20:  'MdNotifications' is defined but never used  no-unused-vars
+
+src\components\eventPage\HeroSection.jsx
+  Line 45:9:  Headings [1m[33mmust[39m[22m[1m have content and the content [1m[33mmust[39m[22m[1m be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\components\teamPage\Background.jsx
+  Line 3:9:  'AnimatedTooltip' is defined but never used  no-unused-vars
+
+src\components\ui\3d-card.jsx
+  Line 106:6:  React Hook useEffect has a missing dependency: 'handleAnimations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\hover-border-gradient.jsx
+  Line 42:6:  React Hook useEffect has missing dependencies: 'duration' and 'rotateDirection'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\components\ui\wavy-background.jsx
+  Line 89:6:  React Hook useEffect has missing dependencies: 'animationId' and 'init'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
