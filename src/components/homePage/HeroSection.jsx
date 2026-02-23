@@ -1,17 +1,16 @@
 import React from 'react'
-import ShaderBackground from "./ShaderBackground"
+import HeroGradient from "./HeroGradient";
 import SpotlightButton from "./SpotlightButton";
 
 
 export const HeroSection = () => {
   return (
     <div className="w-full mx-auto rounded-md relative h-screen overflow-hidden">
-      {/* Shader Gradient Background */}
-      <ShaderBackground />
+      {/* 1. Use the Gradient as the background layer */}
+      <HeroGradient /> 
 
-      {/* Content on top */}
       <div className="relative z-10 flex items-start flex-col justify-center px-2 md:px-10 py-4 w-full h-full">
-        <div className="max-w-4xl w-full">
+         <div className="max-w-4xl w-full">
           <h2 className="text-white  text-5xl md:text-5xl text-left">
             Welcome To
           </h2>
