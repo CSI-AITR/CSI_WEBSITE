@@ -25,4 +25,3 @@ export function HeroSection() {
     </div>
   );
 }
-// comment
