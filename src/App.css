@@ -1,0 +1,250 @@
+/* Button style from Uiverse.io (scoped to .uiverse-btn) */
+.uiverse-btn {
+	position: relative;
+	display: inline-block;
+	padding: 15px 30px;
+	border: 2px solid #fefefe;
+	text-transform: uppercase;
+	color: #fefefe;
+	text-decoration: none;
+	font-weight: 600;
+	font-size: 20px;
+	background-color: transparent;
+	overflow: hidden;
+}
+
+.uiverse-btn::before {
+	content: '';
+	position: absolute;
+	top: 6px;
+	left: -2px;
+	width: calc(100% + 4px);
+	height: calc(100% - 12px);
+	background-color: #212121;
+	transition: 0.3s ease-in-out;
+	transform: scaleY(1);
+	transform-origin: top;
+	z-index: 1;
+}
+
+.uiverse-btn:hover::before {
+	transform: scaleY(0);
+}
+
+.uiverse-btn::after {
+	content: '';
+	position: absolute;
+	left: 6px;
+	top: -2px;
+	height: calc(100% + 4px);
+	width: calc(100% - 12px);
+	background-color: #212121;
+	transition: 0.3s ease-in-out;
+	transform: scaleX(1);
+	transition-delay: 0.5s;
+	transform-origin: left;
+	z-index: 1;
+}
+
+.uiverse-btn:hover::after {
+	transform: scaleX(0);
+}
+
+.uiverse-btn span {
+	position: relative;
+	z-index: 3;
+}
+
+/* fallback for button elements if ever used */
+.uiverse-btn-button {
+	background-color: #212121;
+	border: none;
+}
+
+/* From Uiverse.io by mi-series - alternative button style */
+.button {
+	width: 150px;
+	padding: 0;
+	border: none;
+	transform: rotate(5deg);
+	transform-origin: center;
+	font-family: "Gochi Hand", cursive;
+	text-decoration: none;
+	font-size: 15px;
+	cursor: pointer;
+	padding-bottom: 3px;
+	border-radius: 5px;
+	box-shadow: 0 2px 0 #494a4b;
+	transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+	background-color: #5cdb95;
+	display: inline-block;
+	text-align: center;
+}
+
+.button span {
+	background: #f1f5f8;
+	display: block;
+	padding: 0.5rem 1rem;
+	border-radius: 5px;
+	border: 2px solid #494a4b;
+}
+
+.button:active {
+	transform: translateY(5px);
+	padding-bottom: 0px;
+	outline: 0;
+}
+
+/* From Uiverse.io by CristianMontoya98 - hover reveal effect (scoped to .btn) */
+.btn {
+	width: 6.5em;
+	height: 2.3em;
+	margin: 0.5em;
+	background: black;
+	color: white;
+	border: none;
+	border-radius: 0.625em;
+	font-size: 20px;
+	font-weight: bold;
+	cursor: pointer;
+	position: relative;
+	z-index: 1;
+	overflow: hidden;
+	display: inline-block;
+	text-align: center;
+}
+
+.btn:hover {
+	color: black;
+}
+
+.btn::after {
+	content: "";
+	background: white;
+	position: absolute;
+	z-index: -1;
+	left: -20%;
+	right: -20%;
+	top: 0;
+	bottom: 0;
+	transform: skewX(-45deg) scale(0, 1);
+	transition: all 0.5s;
+}
+
+.btn:hover::after {
+	transform: skewX(-45deg) scale(1, 1);
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+}
+
+/* ensure inner text sits above pseudo-element */
+.btn > span {
+	position: relative;
+	z-index: 2;
+	display: inline-block;
+	line-height: 2.3em;
+}
+
+/* From Uiverse.io by Awadhesh684827 - glitch button effect (scoped to classes containing btn-glitch-) */
+[class*="btn-glitch-"] {
+	display: inline-block;
+	font-family: "VT323", monospace;
+	border: 1px solid rgb(0, 0, 0);
+	color: rgb(0, 0, 0);
+	padding: 10px 13px;
+	min-width: 175px;
+	line-height: 1.5em;
+	white-space: nowrap;
+	text-transform: uppercase;
+	cursor: pointer;
+	border-radius: 15px;
+	position: relative;
+	overflow: hidden;
+	background: transparent;
+}
+
+[class*="btn-glitch-"] .text,
+[class*="btn-glitch-"] .decoration {
+	display: inline-block;
+}
+
+[class*="btn-glitch-"] .decoration {
+	display: inline-block;
+	float: right;
+}
+
+[class*="btn-glitch-"]:hover,
+[class*="btn-glitch-"]:focus {
+	animation-name: glitch;
+	animation-duration: 0.2s;
+	background-color: yellow;
+	color: black;
+	border: 1px solid yellow;
+}
+
+[class*="btn-glitch-"]:hover .text-decoration,
+[class*="btn-glitch-"]:focus .text-decoration,
+[class*="btn-glitch-"]:hover .decoration,
+[class*="btn-glitch-"]:focus .decoration {
+	animation-name: blink;
+	animation-duration: 0.1s;
+	animation-iteration-count: infinite;
+}
+
+[class*="btn-glitch-"]:active {
+	background: none;
+	color: yellow;
+}
+
+[class*="btn-glitch-"]:active .text-decoration,
+[class*="btn-glitch-"]:active .decoration {
+	animation-name: none;
+}
+
+[class*="btn-glitch-"]:active:before,
+[class*="btn-glitch-"]:active:after {
+	display: none;
+}
+
+@keyframes glitch {
+	25% {
+		background-color: red;
+		transform: translateX(-10px);
+		letter-spacing: 10px;
+	}
+
+	35% {
+		background-color: green;
+		transform: translateX(10px);
+	}
+
+	59% {
+		opacity: 0;
+	}
+
+	60% {
+		background-color: blue;
+		transform: translateX(-10px);
+		filter: blur(5px);
+	}
+
+	100% {
+		background-color: yellow;
+		filter: blur(5px);
+	}
+}
+
+@keyframes blink {
+	50% {
+		opacity: 0;
+	}
+}
+
+@keyframes shrink {
+	100% {
+		width: 10%;
+	}
+}
+
+
+

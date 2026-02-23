@@ -3,16 +3,27 @@ import  {HoverEffect}  from '../ui/card-hover-effect'
 
 export const WhatWeDo = () => {
   return (
-    <div className='mt-4'>
-        <h2 className='text-white text-center text-4xl font-bold '>What We <span className='text-blue-100'>Do</span></h2>
+    <div className='mt-4 px-4 md:px-8'>
+      {/* Glass container for the whole section */}
+      <div style={{
+        background: 'rgba(10, 10, 10, 0.55)',
+        backdropFilter: 'blur(16px) saturate(160%)',
+        WebkitBackdropFilter: 'blur(16px) saturate(160%)',
+        border: '1px solid rgba(255,255,255,0.1)',
+        borderRadius: '1.5rem',
+        padding: '2.5rem 1.5rem',
+        boxShadow: 'inset 0 1px 0 rgba(255,255,255,0.08), 0 4px 24px rgba(0,0,0,0.5)',
+      }}>
+        <h2 className='text-white text-center text-4xl font-bold'>What We <span className='text-blue-100'>Do</span></h2>
         <div className="max-w-5xl mx-auto px-8">
-            <HoverEffect items={projects} />
+          <HoverEffect items={projects} />
         </div>
 
-        <h2 className='text-white text-center text-4xl font-bold '>Our <span className='text-blue-100'>Values</span></h2>
+        <h2 className='text-white text-center text-4xl font-bold mt-8'>Our <span className='text-blue-100'>Values</span></h2>
         <div className="max-w-5xl mx-auto px-8">
-            <HoverEffect items={values} />
+          <HoverEffect items={values} />
         </div>
+      </div>
     </div>
   )
 }
