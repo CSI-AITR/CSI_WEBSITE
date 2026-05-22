@@ -3,7 +3,7 @@ import { Card } from "./Card";
 
 export const TeamSection = ({ title, data }) => {
     const isSmallGrid = ["Event Team", "Public Relation Team", "Engagement Team"].includes(title);
-    const gridCols = isSmallGrid ? "grid-cols-3 sm:grid-cols-2 lg:grid-cols-4 items-center"  : "grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 items-center";
+    const gridCols = isSmallGrid ? "grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 items-center"  : "grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 items-center";
   
     // Progressive rendering to prevent UI lag when loading many heavy cards
     const [visibleItems, setVisibleItems] = useState(0);
