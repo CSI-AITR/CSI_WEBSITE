@@ -1,9 +1,9 @@
 
 import { cn } from "../../utils/cn";
-import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useRef, useState, memo } from "react";
 import { createNoise3D } from "simplex-noise";
 
-const WavyBackground = ({
+const WavyBackground = memo(({
   children,
   className,
   containerClassName,
@@ -72,20 +72,21 @@ const WavyBackground = ({
     }
   };
 
-  let animationId;
+  const animationIdRef = useRef(null);
   const render = () => {
     ctx.fillStyle = backgroundFill || "black";
     ctx.globalAlpha = waveOpacity || 0.5;
     ctx.fillRect(0, 0, w, h);
     drawWave(5);
-    animationId = requestAnimationFrame(render);
+    animationIdRef.current = requestAnimationFrame(render);
   };
 
   useEffect(() => {
     init();
     return () => {
-      cancelAnimationFrame(animationId);
+      cancelAnimationFrame(animationIdRef.current);
     };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const [isSafari, setIsSafari] = useState(false);
@@ -118,6 +119,6 @@ const WavyBackground = ({
       </div>
     </div>
   );
-};
+});
 
 export default WavyBackground;

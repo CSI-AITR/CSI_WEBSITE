@@ -5,6 +5,7 @@ import { IoTimeSharp } from "react-icons/io5";
 import { MdPlace } from "react-icons/md";
 import HoverBorderGradient from '../components/ui/hover-border-gradient';
 import { getEventDetails } from '../services/operations/eventApi';
+import { transformCloudinaryUrl } from '../utils/cloudinaryTransform';
 
 
 export const EventDetail = () => {  
@@ -53,7 +54,7 @@ export const EventDetail = () => {
             {/* image */}
             <div className='md:w-[40%]'>
               <img 
-                src={event?.poster} 
+                src={transformCloudinaryUrl(event?.poster)} 
                 alt="img" 
                 className='rounded-3xl md:m-4  '                           
               />
@@ -106,12 +107,12 @@ export const EventDetail = () => {
 
               <div className="flex flex-col md:flex-row justify-center items-center space-y-6 md:space-y-0 md:space-x-6 mb-10">
                   <img
-                    src={event?.glimpse1}
+                    src={transformCloudinaryUrl(event?.glimpse1)}
                     alt="eventGlimpse1"
                     className="w-full md:w-1/2 rounded-lg shadow-md"
                   />
                   <img
-                    src={event?.glimpse2}
+                    src={transformCloudinaryUrl(event?.glimpse2)}
                     alt="eventGlimpse2"
                     className="w-full md:w-1/2 rounded-lg shadow-md"
                   />

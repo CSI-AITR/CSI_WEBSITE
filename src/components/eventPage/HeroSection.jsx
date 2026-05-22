@@ -42,7 +42,6 @@ export const HeroSection = () => {
   <div class="relative z-10">
     <div class="max-w-5xl px-4 xl:px-0 mx-auto">
       <div class="mb-4">
-        <h2 class="text-neutral-400"></h2>
       </div>
 
       <div class="hidden md:flex justify-between gap-6 pb-4">

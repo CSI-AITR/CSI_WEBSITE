@@ -1,9 +1,9 @@
 import { cn } from "../../utils/cn";
-import React, { useEffect, useRef } from "react";
+import React, { useEffect, useRef, memo } from "react";
 import { createNoise3D } from "simplex-noise";
 import { motion } from "framer-motion";
 
-export const Vortex = (props) => {
+export const Vortex = memo((props) => {
   const canvasRef = useRef(null);
   const containerRef = useRef(null);
   const particleCount = props.particleCount || 700;

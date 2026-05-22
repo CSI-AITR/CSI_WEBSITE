@@ -64,7 +64,7 @@ export const Footer = () => {
           <p>Phone: <a href="tel:9827023745">9827023745</a></p>
         </div>
         </div>
-        <p className="text-center text-xs pt-8">© 2024 CSI AITR. All rights reserved.</p>
+        <p className="text-center text-xs pt-8">© 2026 CSI AITR. All rights reserved.</p>
     </footer>
     </div>
   )

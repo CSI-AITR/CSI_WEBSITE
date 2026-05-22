@@ -18,38 +18,43 @@ export const FacultyAdvisor=[
         imageURL:"https://res.cloudinary.com/dymfhvwou/image/upload/v1710008540/AITRCSI/WhatsApp_Image_2024-03-09_at_23.51.49_8bb1f5ae_ggqevr.jpg",
         position:"Faculty Advisor"
     },
+   
+]
+
+export const SeniorCouncil=[
     {
         name:"Nidhish Sharma",
         linkedInUrl:"",
-        imageURL:"",
+        imageURL:"https://res.cloudinary.com/dcwneym08/image/upload/v1777733080/SAVE_20260226_163746_a0tswf.jpg",
         position:"Student Advisor"
     },
     {
         name:"Somesh Shukla",
         linkedInUrl:"",
-        imageURL:"",
+        imageURL:"https://res.cloudinary.com/dcwneym08/image/upload/v1777733209/Somesh_Shukla_q3qmd1.png",
         position:"Student Advisor"
     },
     {
-        name:"Priyansh Gupta",
+        name:"Kartikey Gupta",
         linkedInUrl:"",
-        imageURL:"",
+        imageURL:"https://res.cloudinary.com/dcwneym08/image/upload/v1777733082/Kartikey_Gupta_Proffesionanl_Photograph_sixqym.jpg",
         position:"Student Advisor"
-    },
-
+    }
+   
 ]
+ 
 
 export const Lead=[
     {
         "name": "Rajasi Deshpande",
         "linkedInUrl": "",
-        "imageURL": "",
+        "imageURL": "https://res.cloudinary.com/dgmelzxo6/image/upload/v1772309777/rajasi_photo.jpg_zldded.jpg",
         "position": "Chairperson"
     },
     {
         "name": "Sarvesh Jadia",
         "linkedInUrl": "",
-        "imageURL": "",
+        "imageURL": "https://res.cloudinary.com/dgmelzxo6/image/upload/v1772488711/3a66a9d7-9730-4f4e-ad01-bba83c82ec44.png",
         "position": "Vice Chairperson"
     },
     {
@@ -61,39 +66,33 @@ export const Lead=[
     {
         "name": "Hiren Kodwani",
         "linkedInUrl": "",
-        "imageURL": "",
+        "imageURL": "https://res.cloudinary.com/dgmelzxo6/image/upload/v1772488777/25ee3986-28ce-4040-b57f-62b6af3a8d3c.png",
         "position": "Secretary"
     },
 
     {
-        "name": "",
-        "linkedInUrl": "",
-        "imageURL": "",
-        "position": "Treasurer"
-    },
-    {
         "name": "Shourya Gupta",
         "linkedInUrl": "",
         "imageURL": "https://res.cloudinary.com/dgmelzxo6/image/upload/v1771703712/1f96dbfe-e03b-4056-8866-9ef47be04e14.png",
-        "position": "Software Developer Lead"
+        "position": "Software  Lead"
     },
     {
         "name": "Siya Talreja",
         "linkedInUrl": "",
-        "imageURL": "",
-        "position": "Event & PR Head"
+        "imageURL": "https://res.cloudinary.com/dgmelzxo6/image/upload/v1772488743/1163b9af-59c9-4e5a-9509-d1038476bc16.png",
+        "position": "Event Lead"
     },
     {
         "name": "Somya Choudhary",
         "linkedInUrl": "",
         "imageURL": "https://res.cloudinary.com/dgmelzxo6/image/upload/v1771696251/Somya_Choudhary_r8ik6e.jpg",
-        "position": "Creative Head"
+        "position": "Creative Lead"
     },
     {
         "name": "Divyanshi Solanki",
         "linkedInUrl": "",
-        "imageURL": "",
-        "position": "Creative Head"
+        "imageURL": "https://res.cloudinary.com/dcwneym08/image/upload/v1778420637/47023f75-1e9e-41e2-b93d-458d334de625.png",
+        "position": "Treasurer"
     }
     
 ]
@@ -157,6 +156,7 @@ export const eventTeam=[
         "position": "Event Manager",
         "imageURL": "https://res.cloudinary.com/dgmelzxo6/image/upload/v1771698067/Padmanshu_pare_rypoem.png"
     },  
+
     
 ]
 
@@ -172,7 +172,7 @@ export const creativeTeam=[
         "name": "Aachal parihar",
         "linkedInUrl": "",
         "position": "Creative Team Member",
-        "imageURL": ""
+        "imageURL": "https://res.cloudinary.com/dgmelzxo6/image/upload/v1772309637/20251105_134123_csf5vy.jpg"
     },
     {
         "name": "Mayuri Pandey",
@@ -184,7 +184,7 @@ export const creativeTeam=[
         "name": "Aditya Vijayvargiya",
         "linkedInUrl": "",
         "position": "Creative Team Member",
-        "imageURL": ""
+        "imageURL": "https://res.cloudinary.com/dcwneym08/image/upload/v1778420760/95afa17a-53ff-47f4-9389-48c31d63cefd.png"
     },       
     {
         "name": "Anikesh Jain",
@@ -197,6 +197,12 @@ export const creativeTeam=[
         "linkedInUrl": "",
         "position": "Creative Team Member",
         "imageURL": "https://res.cloudinary.com/dgmelzxo6/image/upload/v1771697504/Jatin_Pal_Professional_Photo_fmhsgd.png"
+    } ,     
+    {
+        "name": "Himanshu Verma",
+        "linkedInUrl": "",
+        "position": "Creative Team Member",
+        "imageURL": "https://res.cloudinary.com/dgmelzxo6/image/upload/v1772489299/Himanshu_Verma_h3tax6.png"
     }       
     
 ]
@@ -206,27 +212,34 @@ export const prTeam=[
     {
         "name": "Anushka Suryawanshi",
         "linkedInUrl": "",
-        "position": "PR Team Member",
-        "imageURL": ""
+        "position": "PR Executive",
+        "imageURL": "https://res.cloudinary.com/dgmelzxo6/image/upload/v1772309586/IMG_20251110_212655_qczgr7.jpg"
     },
     {
         "name": "Parul Vyas",
         "linkedInUrl": "",
-        "position": "PR Team Member",
+        "position": "PR Executive",
         "imageURL": "https://res.cloudinary.com/dgmelzxo6/image/upload/v1771698104/Parul_vyas_wxji0c.png"
     },
     {
         "name": "Swayam Bhaturkar",
         "linkedInUrl": "",
-        "position": "PR Team Member",
+        "position": "PR Executive",
         "imageURL": "https://res.cloudinary.com/dgmelzxo6/image/upload/v1771698104/Swayam_bhaturkar_ykctde.png"
     },
     {
         "name": "Mohammed Arhaan Qureshi",
         "linkedInUrl": "",
-        "position": "PR Team Member",
+        "position": "PR Executive",
         "imageURL": "https://res.cloudinary.com/dgmelzxo6/image/upload/v1771698105/Mohammed_Arhaan_chmpkk.png"
+    },
+    {
+        "name": "Ananya Panwar",
+        "linkedInUrl": "",
+        "position": "PR Executive",
+        "imageURL": "https://res.cloudinary.com/dgmelzxo6/image/upload/v1772310732/Ananya_panwar_kpkk72.jpg"
     }
+    
         
 ]
 

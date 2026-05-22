@@ -1,6 +1,5 @@
 import React from 'react'
-import { IoSearch } from 'react-icons/io5'
-import { MdLogout, MdNotifications, MdMenu } from 'react-icons/md'
+import { MdLogout, MdMenu } from 'react-icons/md'
 import { useNavigate } from 'react-router-dom'
 import { logoutAdmin } from '../../services/operations/authApi'
 
