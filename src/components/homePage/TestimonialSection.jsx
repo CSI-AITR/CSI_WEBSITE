@@ -32,7 +32,7 @@ export const TestimonialSection = () => {
                   </div>
                 </div>
                 <p className="text-white/70 font-light leading-relaxed flex-grow">
-                  "{testimonial?.testimonial}"
+                  {testimonial?.testimonial}
                 </p>
               </CardSpotlight>
             ))}
