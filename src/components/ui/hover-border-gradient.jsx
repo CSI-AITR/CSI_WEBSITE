@@ -14,15 +14,6 @@ const HoverBorderGradient = ({
   const [hovered, setHovered] = useState(false);
   const [direction, setDirection] = useState("TOP");
 
-  const rotateDirection = (currentDirection) => {
-    const directions = ["TOP", "LEFT", "BOTTOM", "RIGHT"];
-    const currentIndex = directions.indexOf(currentDirection);
-    const nextIndex = clockwise
-      ? (currentIndex - 1 + directions.length) % directions.length
-      : (currentIndex + 1) % directions.length;
-    return directions[nextIndex];
-  };
-
   const movingMap = {
     TOP: "radial-gradient(20.7% 50% at 50% 0%, hsl(0, 0%, 100%) 0%, rgba(255, 255, 255, 0) 100%)",
     LEFT: "radial-gradient(16.6% 43.1% at 0% 50%, hsl(0, 0%, 100%) 0%, rgba(255, 255, 255, 0) 100%)",
@@ -35,11 +26,18 @@ const HoverBorderGradient = ({
   useEffect(() => {
     if (!hovered) {
       const interval = setInterval(() => {
-        setDirection((prevState) => rotateDirection(prevState));
+        setDirection((prevState) => {
+          const directions = ["TOP", "LEFT", "BOTTOM", "RIGHT"];
+          const currentIndex = directions.indexOf(prevState);
+          const nextIndex = clockwise
+            ? (currentIndex - 1 + directions.length) % directions.length
+            : (currentIndex + 1) % directions.length;
+          return directions[nextIndex];
+        });
       }, duration * 1000);
       return () => clearInterval(interval);
     }
-  }, [hovered]);
+  }, [hovered, clockwise, duration]);
 
   return (
     <Tag

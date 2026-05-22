@@ -36,11 +36,11 @@ module.exports = {
         300: "#838894",
         400: "#6E727F",
         
-        500: "#585D69",
-        600: "#424854",
-        700: "#2C333F",
-        800: "#161D29",
-        900: "#000814",
+        500: "#546E96",
+        600: "#3E567A",
+        700: "#2C4061",
+        800: "#1D2D49",
+        900: "#132038",
       },
       gray: {
         50: "#FAFAFC",
@@ -178,6 +178,10 @@ module.exports = {
   },
     },
     extend: {
+      fontFamily: {
+        outfit: ['"Outfit"', 'sans-serif'],
+        jakarta: ['"Plus Jakarta Sans"', 'sans-serif'],
+      },
       maxWidth: {
         maxContent: "1260px",
         maxContentTab: "650px"
@@ -247,6 +251,19 @@ module.exports = {
           700: "#1d4ed8",
           800: "#1e40af",
           900: "#1e3a8a",
+        },
+      },
+      animation: {
+        aurora: "aurora 60s linear infinite",
+      },
+      keyframes: {
+        aurora: {
+          from: {
+            backgroundPosition: "50% 50%, 50% 50%",
+          },
+          to: {
+            backgroundPosition: "350% 50%, 350% 50%",
+          },
         },
       },
     },

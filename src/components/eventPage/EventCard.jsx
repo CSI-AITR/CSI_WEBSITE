@@ -2,6 +2,7 @@ import React from 'react'
 import { MdOutlineDateRange } from "react-icons/md";
 import { IoTimeSharp } from "react-icons/io5";
 import { Link, useNavigate } from 'react-router-dom';
+import { transformCloudinaryUrl } from '../../utils/cloudinaryTransform';
 
 
 export const EventCard = ({event}) => {
@@ -17,7 +18,7 @@ export const EventCard = ({event}) => {
         <div className='max-h-52 w-full overflow-hidden rounded-lg mb-4'>
           <img
             alt='event_card'
-            src={event?.thumbnail}
+            src={transformCloudinaryUrl(event?.thumbnail)}
             loading='lazy'
             width={400}
             height={400}

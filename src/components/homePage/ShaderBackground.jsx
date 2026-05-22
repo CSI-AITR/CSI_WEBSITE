@@ -1,14 +1,6 @@
 import React, { Suspense, lazy } from 'react';
 
 // Lazy load ShaderGradient with error boundary
-const ShaderGradient = lazy(() => 
-  import('@shadergradient/react').then(module => ({
-    default: module.ShaderGradient
-  })).catch(err => {
-    console.warn('ShaderGradient failed to load, using fallback:', err);
-    return { default: () => <div className="w-full h-full bg-gradient-to-br from-black via-slate-900 to-purple-900" /> };
-  })
-);
 
 const ShaderBackground = () => {
   return (
@@ -32,7 +24,7 @@ const ShaderBackground = () => {
           fov={45}
           frameRate={10}
           gizmoHelper="hide"
-          grain="off"
+  grain="on"
           lightType="3d"
           pixelDensity={1}
           positionX={0}
